@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-My name is MohammadAmin, and I am currently studying for a master's degree in Artificial Intelligence and Robotics at Persian Gulf University, Bushehr.
+My name is MohammadAmin, and I am currently studying for a master's degree in Artificial Intelligence and Robotics at Persian Gulf University, Bushehr, Iran.
 
 - 🔭 I’m currently working on Link Prediction Using GNNs and Dental Image Segmentation Using U-Net Architectures.
 - 🌱 I’m currently learning Diffrent U-Net Architectures and Graph Neural Network(GNNs) and Image Processing and Reinformence Learning.
-- 👯 I’m looking to collaborate on GNNs and Dental Image and writing articles and someone with backend background.
+- 👯 I’m looking to collaborate on GNNs and Dental Image Segmentation and writing articles and someone with backend background.
 - 📫 How to reach me: [telegram](https://t.me/MAJ55111) email: maj55111@gmail.com
-- ⚡ Fun fact: I'm currently Strong in Python and learning several other languages ​like C++, golang and others ​and also love playing video games!
+- Fun fact: I am an data scientist and AI researcher and I am strong in Python and learning other programming languages like C++, golang and others.
 <!--
 **MohammadAmin-J/MohammadAmin-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
