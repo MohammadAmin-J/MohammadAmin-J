@@ -5,7 +5,7 @@ My name is MohammadAmin, and I am currently studying for a master's degree in Ar
 - 🔭 I’m currently working on Link Prediction Using GNNs and Dental Image Segmentation Using U-Net Architectures.
 - 🌱 I’m currently learning Diffrent U-Net Architectures and Graph Neural Network(GNNs) and Image Processing and Reinformence Learning.
 - 👯 I’m looking to collaborate on GNNs and Dental Image and writing articles and someone with backend background.
-- 📫 How to reach me: [telegram](@MAJ55111) email: maj55111@gmail.com
+- 📫 How to reach me: [telegram](https://t.me/@MAJ55111) email: maj55111@gmail.com
 - ⚡ Fun fact: I love learning new languages. I'm currently Strong in Python and learning several other languages ​like C++ and... ​and also love playing video games!
 <!--
 **MohammadAmin-J/MohammadAmin-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
